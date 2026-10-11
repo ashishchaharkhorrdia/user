@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "doctors": "Médecins",
+    "about": "À Propos",
+    "contact": "Contact",
+    "myAppointments": "Mes Rendez-vous",
+    "myProfile": "Mon Profil",
+    "logout": "Déconnexion",
+    "login": "Créer un compte"
+  },
+  "hero": {
+    "title": "Prenez un Rendez-vous avec des Médecins de Confiance",
+    "description": "Parcourez simplement notre vaste liste de médecins de confiance, programmez votre rendez-vous sans tracas."
+  },
+  "appointment": {
+    "bookingSlots": "Créneaux Disponibles",
+    "bookAppointment": "Prendre un rendez-vous",
+    "contact": "Contact et Emplacement",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "address": "Adresse",
+    "about": "À Propos",
+    "specialities": "Spécialités",
+    "patientInstructions": "Instructions du Patient",
+    "patientDocs": "Apporter les rapports médicaux précédents",
+    "patientEarly": "Arriver 10 minutes en avance",
+    "patientFasting": "Jeûne non requis sauf indication contraire",
+    "cancellationPolicy": "Politique d'Annulation",
+    "cancellationBox": "Annulation gratuite jusqu'à 24 heures avant le rendez-vous. Les annulations tardives peuvent être facturées.",
+    "payment": "Paiement",
+    "paymentBox": "Payer à la clinique ou utiliser le paiement sur l'app (le cas échéant).",
+    "booking": "Réservation...",
+    "experience": "Expérience"
+  },
+  "common": {
+    "fee": "Tarif",
+    "contact": "Contact",
+    "location": "Emplacement",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "clinicName": "Nom de la Clinique",
+    "selectDate": "Sélectionner la Date",
+    "selectTime": "Sélectionner l'Heure"
+  },
+  "home": {
+    "topDoctors": "Meilleurs Médecins",
+    "bookAppointment": "Prendre un Rendez-vous",
+    "specialities": "Spécialités",
+    "doctors": "Médecins",
+    "experience": "Expérience",
+    "fee": "Tarif",
+    "allDoctors": "Tous les Médecins"
+  },
+  "doctors": {
+    "allDoctors": "Tous les Médecins",
+    "filterBySpeciality": "Filtrer par Spécialité",
+    "generalPhysician": "Médecin Généraliste",
+    "gynecologist": "Gynécologue",
+    "dermatologist": "Dermatologue",
+    "pediatrician": "Pédiatre",
+    "neurologist": "Neurologue",
+    "gastroenterologist": "Gastro-entérologue"
+  },
+  "about": {
+    "aboutUs": "À Propos de Nous",
+    "mission": "Notre Mission",
+    "vision": "Notre Vision",
+    "description": "En savoir plus sur notre plateforme et notre mission"
+  },
+  "contact": {
+    "contactUs": "Nous Contacter",
+    "ourAddress": "Notre Adresse",
+    "ourEmail": "Notre E-mail",
+    "ourPhone": "Notre Téléphone",
+    "sendMessage": "Nous Envoyer un Message"
+  },
+  "auth": {
+    "email": "E-mail",
+    "password": "Mot de Passe",
+    "login": "Connexion",
+    "signup": "S'inscrire",
+    "rememberMe": "Se Souvenir de Moi",
+    "forgotPassword": "Mot de Passe Oublié?"
+  },
+  "profile": {
+    "myProfile": "Mon Profil",
+    "editProfile": "Modifier le Profil",
+    "saveChanges": "Enregistrer les Modifications",
+    "cancel": "Annuler",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "address": "Adresse",
+    "dateOfBirth": "Date de Naissance",
+    "gender": "Genre"
+  }
+}

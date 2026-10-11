@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "home": "होम",
+    "doctors": "डॉक्टर",
+    "about": "परिचय",
+    "contact": "संपर्क करें",
+    "myAppointments": "मेरी नियुक्तियां",
+    "myProfile": "मेरी प्रोफ़ाइल",
+    "logout": "लॉग आउट",
+    "login": "खाता बनाएं"
+  },
+  "hero": {
+    "title": "विश्वसनीय डॉक्टरों के साथ नियुक्ति बुक करें",
+    "description": "आसानी से हमारे विश्वस्त डॉक्टरों की विस्तृत सूची पर ब्राउज़ करें और अपनी नियुक्ति बिना परेशानी के शेड्यूल करें।"
+  },
+  "appointment": {
+    "bookingSlots": "उपलब्ध समय",
+    "bookAppointment": "नियुक्ति बुक करें",
+    "contact": "संपर्क और स्थान",
+    "phone": "फोन",
+    "email": "ईमेल",
+    "address": "पता",
+    "about": "परिचय",
+    "specialities": "विशेषताएं",
+    "patientInstructions": "रोगी निर्देश",
+    "patientDocs": "पिछली चिकित्सा रिपोर्ट अवश्य लाएं",
+    "patientEarly": "10 मिनट पहले आएं",
+    "patientFasting": "भोजन की आवश्यकता नहीं है जब तक निर्दिष्ट न हो",
+    "cancellationPolicy": "रद्दीकरण नीति",
+    "cancellationBox": "नियुक्ति से 24 घंटे पहले मुफ्त रद्दीकरण। देर से रद्दीकरण पर शुल्क लग सकता है।",
+    "payment": "भुगतान",
+    "paymentBox": "क्लिनिक में भुगतान करें या ऐप भुगतान का उपयोग करें (यदि सक्षम हो)।",
+    "booking": "बुकिंग जारी है...",
+    "experience": "अनुभव"
+  },
+  "common": {
+    "fee": "शुल्क",
+    "contact": "संपर्क",
+    "location": "स्थान",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफल",
+    "clinicName": "क्लिनिक का नाम",
+    "selectDate": "तारीख चुनें",
+    "selectTime": "समय चुनें"
+  },
+  "home": {
+    "topDoctors": "शीर्ष डॉक्टर",
+    "bookAppointment": "नियुक्ति बुक करें",
+    "specialities": "विशेषताएं",
+    "doctors": "डॉक्टर",
+    "experience": "अनुभव",
+    "fee": "शुल्क",
+    "allDoctors": "सभी डॉक्टर"
+  },
+  "doctors": {
+    "allDoctors": "सभी डॉक्टर",
+    "filterBySpeciality": "विशेषता द्वारा फ़िल्टर करें",
+    "generalPhysician": "सामान्य चिकित्सक",
+    "gynecologist": "स्त्रीरोग विशेषज्ञ",
+    "dermatologist": "त्वचा विशेषज्ञ",
+    "pediatrician": "बाल रोग विशेषज्ञ",
+    "neurologist": "तंत्रिका विशेषज्ञ",
+    "gastroenterologist": "गैस्ट्रोएंटेरोलॉजिस्ट"
+  },
+  "about": {
+    "aboutUs": "हमारे बारे में",
+    "mission": "हमारा मिशन",
+    "vision": "हमारी दृष्टि",
+    "description": "हमारे मंच और मिशन के बारे में अधिक जानें"
+  },
+  "contact": {
+    "contactUs": "हमसे संपर्क करें",
+    "ourAddress": "हमारा पता",
+    "ourEmail": "हमारा ईमेल",
+    "ourPhone": "हमारा फोन",
+    "sendMessage": "हमें संदेश भेजें"
+  },
+  "auth": {
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "login": "लॉगिन करें",
+    "signup": "साइन अप करें",
+    "rememberMe": "मुझे याद रखें",
+    "forgotPassword": "पासवर्ड भूल गए?"
+  },
+  "profile": {
+    "myProfile": "मेरी प्रोफ़ाइल",
+    "editProfile": "प्रोफ़ाइल संपादित करें",
+    "saveChanges": "परिवर्तन सहेजें",
+    "cancel": "रद्द करें",
+    "name": "नाम",
+    "phone": "फोन",
+    "address": "पता",
+    "dateOfBirth": "जन्म तारीख",
+    "gender": "लिंग"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "home": "Home",
+    "doctors": "Doctors",
+    "about": "About",
+    "contact": "Contact",
+    "myAppointments": "My Appointments",
+    "myProfile": "My Profile",
+    "logout": "Logout",
+    "login": "Create account"
+  },
+  "hero": {
+    "title": "Book Appointment With Trusted Doctors",
+    "description": "Simply browse through our extensive list of trusted doctors, schedule your appointment hassle-free."
+  },
+  "appointment": {
+    "bookingSlots": "Booking slots",
+    "bookAppointment": "Book an appointment",
+    "contact": "Contact & Location",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "about": "About",
+    "specialities": "Specialities",
+    "patientInstructions": "Patient Instructions",
+    "patientDocs": "Please bring any previous medical reports or test results.",
+    "patientEarly": "Please arrive at least 10 minutes before your appointment.",
+    "patientFasting": "No fasting required unless your doctor advises otherwise.",
+    "cancellationPolicy": "Cancellation Policy",
+    "cancellationBox": "Free cancellation up to 24 hours before the appointment. Cancellations within 24 hours may incur a fee.",
+    "payment": "Payment",
+    "paymentBox": "Payment accepted at clinic. In-app payments are available if enabled.",
+    "booking": "Booking...",
+    "experience": "Experience"
+  },
+  "common": {
+    "fee": "Fee",
+    "contact": "Contact",
+    "location": "Location",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "clinicName": "Clinic Name",
+    "selectDate": "Select Date",
+    "selectTime": "Select Time"
+  },
+  "home": {
+    "topDoctors": "Top Doctors",
+    "bookAppointment": "Book Appointment",
+    "specialities": "Specialities",
+    "doctors": "Doctors",
+    "experience": "Experience",
+    "fee": "Fee",
+    "allDoctors": "All Doctors"
+  },
+  "doctors": {
+    "allDoctors": "All Doctors",
+    "filterBySpeciality": "Filter by Speciality",
+    "generalPhysician": "General physician",
+    "gynecologist": "Gynecologist",
+    "dermatologist": "Dermatologist",
+    "pediatrician": "Pediatricians",
+    "neurologist": "Neurologist",
+    "gastroenterologist": "Gastroenterologist"
+  },
+  "about": {
+    "aboutUs": "About Us",
+    "mission": "Our Mission",
+    "vision": "Our Vision",
+    "description": "Learn more about our platform and mission"
+  },
+  "contact": {
+    "contactUs": "Contact Us",
+    "ourAddress": "Our Address",
+    "ourEmail": "Our Email",
+    "ourPhone": "Our Phone",
+    "sendMessage": "Send us a Message"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "signup": "Sign Up",
+    "rememberMe": "Remember Me",
+    "forgotPassword": "Forgot Password?"
+  },
+  "profile": {
+    "myProfile": "My Profile",
+    "editProfile": "Edit Profile",
+    "saveChanges": "Save Changes",
+    "cancel": "Cancel",
+    "name": "Name",
+    "phone": "Phone",
+    "address": "Address",
+    "dateOfBirth": "Date of Birth",
+    "gender": "Gender"
+  }
+}
